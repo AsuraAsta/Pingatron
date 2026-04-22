@@ -1,0 +1,7 @@
+aparece um botão: "Acessar via SSH".
+
+
+Comando de Reboot: Reiniciar a máquina inteira remotamente se nada mais funcionar.
+
+3. Histórico de Testes (Log) 📝
+Salvar os resultados em um arquivo .txt ou .csv. Imagine que um servidor cai de madrugada; se você deixar o programa rodando, ele cria um log dizendo: "IP 10.0.0.5 ficou offline às 03:45"
